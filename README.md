@@ -7,3 +7,6 @@ Work with Zabbix 2.2/2.4
 
 TODO:
 - Add install script
+	- Add zabbix UserParameters
+	- Add logrotate.d file
+- Add zabbix template for monitoring log-file
